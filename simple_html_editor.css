@@ -1,0 +1,21 @@
+.simple-html-editor {
+	border: 1px solid rgba(0,0,0,0.1);
+	min-height: 100px;
+	width: 100%;
+	outline: 0px solid transparent;
+	padding: 4px;
+}
+
+.shet_button {
+	display: inline-block;
+	padding: 2px;
+	margin: 2px;
+	margin-right:5px;
+	cursor: pointer;
+}
+
+#simple_html_editor_toolbar {
+	border: 1px solid rgba(0,0,0,0.1);
+	border-bottom: none;
+	width: 100%;
+}
