@@ -1,6 +1,6 @@
 # SimpleHTMLEditor
 
-Simple HTML editor (allowing bold, italic and underline formatting) without using the deprecated Document.execCommand() JS-API.
+Simple HTML editor (allowing bold, italic and underline formatting) without using the deprecated Document.execCommand() JS-API. The editor is written in vanilla JavaScript and does not need any external dependencies.
 
 *How to use the editor*
 
