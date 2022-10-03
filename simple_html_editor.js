@@ -65,11 +65,11 @@ class simple_html_editor {
 	}
 	
 	set_html(html) {
-		this.element.innerHTML(html);
+		this.editor.innerHTML = html;
 	}
 	
 	get_html() {
-		return this.element.innerHTML();
+		return this.editor.innerHTML;
 	}
 	
 }
