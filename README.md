@@ -3,9 +3,10 @@
 Simple HTML editor (allowing bold, italic and underline formatting) without using the deprecated Document.execCommand() JS-API.
 
 *How to use the editor*
+
 Include simple_html_editor.css and simple_html_editor.js in your web page.
 
-Initizalize the editor with
+*Initialization*
 
 MessageEditor = new simple_html_editor(<id of editor element>);
 
